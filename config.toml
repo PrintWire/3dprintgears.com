@@ -1,0 +1,183 @@
+baseURL = "https://3dprintgears.com/"
+languageCode = "en-us"
+title = "3D Print Gears"
+theme = "printwire"
+
+[params]
+tagline       = "Precision 3D printed gears — spur, helical, bevel, and worm gears in metal and engineering polymers for low-volume production and rapid replacement."
+description   = "3D Print Gears covers additive manufacturing of gears and precision mechanical components — DMLS metal gears, SLS nylon gear trains, and engineering polymer gear mechanisms for prototyping and production."
+keywords      = "3D printed gears, gear 3D printing, spur gear AM, helical gear print, precision gear additive manufacturing, gear mechanism 3D print, custom gear production"
+logoEmoji     = "⚙️"
+contactEmail  = "maxdavisgroup@gmail.com"
+footerServicesLabel = "Services"
+
+colorPrimary      = "#78716c"
+colorPrimaryDark  = "#57534e"
+colorPrimaryLight = "#a8a29e"
+colorBgDark       = "#060605"
+colorBgSection    = "#09090a"
+colorBgCard       = "#0e0e10"
+colorBgCardHover  = "#131316"
+
+fontPrimary   = "Orbitron"
+fontSecondary = "Space+Grotesk"
+
+newsFallbackImages = ["https://images.unsplash.com/photo-1581092918056-0c4c3acd3789?w=1920&q=80"]
+
+heroEyebrow  = "Precision Gear Manufacturing by AM"
+heroTitle    = "3D Print <em>Gears</em>"
+heroSubtitle = "Precision 3D printed gears — spur, helical, bevel, and worm gears in metal and engineering polymers for low-volume production and rapid replacement."
+heroCta1Text = "Explore Services"
+heroCta1URL  = "/services/"
+heroCta2Text = "Get a Quote"
+heroCta2URL  = "/contact/"
+heroImage    = "https://images.unsplash.com/photo-1581092918056-0c4c3acd3789?w=1920&q=80"
+
+overviewTitle   = "Custom Gears Without Cutting Tools"
+overviewText    = "Spur, helical, bevel, and internal ring gears — printed in 316L, 17-4 PH, and engineering nylon without hobbing cutters or gear-cutting machines. Exact module and tooth profile from CAD."
+overviewBtnText = "View Services"
+overviewBtnURL  = "/services/"
+
+applicationsTitle = "Industries We Serve"
+servicesTitle    = "3D Print Gears Services"
+servicesSubtitle = "Precision 3D printed gears — spur, helical, bevel, and worm gears in metal and engineering polymers for low-volume production and rapid replacement."
+clusterTitle = "Related 3D Printing Resources"
+newsletterTitle = "Industry Updates to Your Inbox"
+newsletterText  = "Research breakthroughs and industry news — delivered monthly."
+ctaTitle   = "Start Your Project"
+ctaText    = "Precision 3D printed gears — spur, helical, bevel, and worm gears in metal and engineering polymers for low-volume production and rapid replacement."
+ctaBtnText = "Get in Touch"
+ctaBtnURL  = "/contact/"
+
+[[params.stats]]
+count  = 8
+suffix = "µm"
+label  = "Tooth Profile Accuracy (DMLS)"
+
+[[params.stats]]
+count  = 48
+suffix = "hr"
+label  = "Custom Gear Turnaround"
+
+[[params.stats]]
+count  = 20
+suffix = "+"
+label  = "Gear Materials Available"
+
+[[params.stats]]
+count  = 80
+suffix = "%"
+label  = "Cost vs Conventional for Low Volume"
+
+
+[[params.applications]]
+title       = "Replacement Gears"
+description = "Reverse-engineered obsolete gear replacements — scan the worn gear, print the replacement, ship in 48 hours."
+image       = "https://images.unsplash.com/photo-1581092918056-0c4c3acd3789?w=1920&q=80"
+
+[[params.applications]]
+title       = "Prototype Gear Trains"
+description = "Rapid iteration of gear mechanism prototypes in engineering nylon before committing to machining."
+image       = "https://images.unsplash.com/photo-1581092918056-0c4c3acd3789?w=1920&q=80"
+
+[[params.applications]]
+title       = "Custom Ratio Gearboxes"
+description = "Non-standard gear ratios and complex gear geometries that cannot be produced by conventional hobbing."
+image       = "https://images.unsplash.com/photo-1581092918056-0c4c3acd3789?w=1920&q=80"
+
+[[params.applications]]
+title       = "Low-Volume Production"
+description = "Short runs of 1–500 gears in DMLS metal or SLS nylon — no tooling amortisation, unit economics for low volume."
+image       = "https://images.unsplash.com/photo-1581092918056-0c4c3acd3789?w=1920&q=80"
+
+
+[[params.servicesPreview]]
+icon        = "⚙️"
+title       = "Metal Gear Printing"
+description = "DMLS 316L, 17-4 PH, and tool steel gears — tooth profile accuracy ±8µm, density >99.5%, heat treatment available."
+
+[[params.servicesPreview]]
+icon        = "◎"
+title       = "Polymer Gear Production"
+description = "SLS nylon PA12 and PA11 gears — self-lubricating, lightweight, and corrosion-resistant for food-grade and marine applications."
+
+[[params.servicesPreview]]
+icon        = "🔬"
+title       = "Gear Reverse Engineering"
+description = "CMM scan of worn gear — reverse model, tooth profile verification, and DMLS print in 3–5 days."
+
+[[params.servicesPreview]]
+icon        = "🔩"
+title       = "Gear Post-Processing"
+description = "CNC gear grinding, EDM, and gear shaving for printed metal gears — achieving AGMA 8–10 accuracy class."
+
+
+[[params.services]]
+name        = "Metal Gear Printing"
+description = "DMLS 316L, 17-4 PH, and tool steel gears — tooth profile accuracy ±8µm, density >99.5%, heat treatment available."
+icon        = "⚙️"
+image       = "https://images.unsplash.com/photo-1581092918056-0c4c3acd3789?w=800&q=80"
+
+[[params.services]]
+name        = "Polymer Gear Production"
+description = "SLS nylon PA12 and PA11 gears — self-lubricating, lightweight, and corrosion-resistant for food-grade and marine applications."
+icon        = "◎"
+image       = "https://images.unsplash.com/photo-1581092918056-0c4c3acd3789?w=800&q=80"
+
+[[params.services]]
+name        = "Gear Reverse Engineering"
+description = "CMM scan of worn gear — reverse model, tooth profile verification, and DMLS print in 3–5 days."
+icon        = "🔬"
+image       = "https://images.unsplash.com/photo-1581092918056-0c4c3acd3789?w=800&q=80"
+
+[[params.services]]
+name        = "Gear Post-Processing"
+description = "CNC gear grinding, EDM, and gear shaving for printed metal gears — achieving AGMA 8–10 accuracy class."
+icon        = "🔩"
+image       = "https://images.unsplash.com/photo-1581092918056-0c4c3acd3789?w=800&q=80"
+
+
+[[params.clusterLinks]]
+name        = "3dprintgears.com"
+url         = "https://3dprintgears.com"
+description = "Precision gear 3D printing"
+
+[[params.clusterLinks]]
+name        = "dmls3d.com"
+url         = "https://dmls3d.com"
+description = "Metal 3D printing"
+
+[[params.clusterLinks]]
+name        = "sendcutship.com"
+url         = "https://sendcutship.com"
+description = "Custom manufacturing"
+
+[[params.clusterLinks]]
+name        = "3dprintsteel.com"
+url         = "https://3dprintsteel.com"
+description = "Steel 3D printing"
+
+[[menu.main]]
+name = "Home"
+url  = "/"
+weight = 1
+[[menu.main]]
+name = "About"
+url  = "/about/"
+weight = 2
+[[menu.main]]
+name = "Articles"
+url  = "/articles/"
+weight = 3
+[[menu.main]]
+name = "Services"
+url  = "/services/"
+weight = 4
+[[menu.main]]
+name = "Contact"
+url  = "/contact/"
+weight = 5
+[[menu.main]]
+name = "Advertise"
+url  = "/advertise/"
+weight = 6
