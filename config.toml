@@ -13,6 +13,6 @@ title = "3D Print Gears"
 [params]
 siteName     = "3D Print Gears"
 logoHtml     = '3D&nbsp;PRINT&nbsp;<span class="ed-logo-accent">GEARS</span>'
-description  = "3D Print Gears: additive manufacturing for gears and drivetrains — printed planetary, helical, worm, bevel, and cycloidal drives. News, research, and a supplier directory."
+description  = "3D Print Gears is a PrintWire network site about 3D printed gears. PrintWire passes quote requests to specialised manufacturers and returns pricing. PrintWire does not manufacture parts itself."
 ogImage      = "/images/gr01_planetary.png"
 contactEmail = "maxdavisgroup@gmail.com"
